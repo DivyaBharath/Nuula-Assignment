@@ -1,0 +1,7 @@
+{
+  "object_patterns": [
+    "Data.Nuula.Errors",
+    "Data.DataExtract900jer.Messages",
+    "Data.DataExtract900jer.Rules"
+  ]
+}

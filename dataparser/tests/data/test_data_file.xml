@@ -1,0 +1,7 @@
+<data method="post">
+    <input type="box"/>
+    <messages type="email">
+        <message title="spam email"/>
+        <message title="broadcast email"/>
+    </messages>
+</data>
